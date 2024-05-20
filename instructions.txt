@@ -1,0 +1,6 @@
+1. Create a database recipe_db in xampp 
+2. now copy the project folder to xampp/htdocs 
+3. Access the project in the browser http://localhost/Recipe/login.php
+
+
+          Happy Coding 😊
